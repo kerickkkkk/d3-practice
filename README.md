@@ -1,24 +1,13 @@
 # d3-practice
 
-## Project setup
-```
-npm install
-```
+## 目標
 
-### Compiles and hot-reloads for development
+將一些學習到的資源湊合在這邊，已被未來要使用來使用。
+
+主要使用的版本是 d3 v7 版本。
+
+
 ```
+npm i 
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
