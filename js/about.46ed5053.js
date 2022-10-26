@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkd3_practice"]=self["webpackChunkd3_practice"]||[]).push([[443],{7381:function(n,t,a){a.r(t),a.d(t,{default:function(){return f}});var c=a(3396);const e={class:"about"},r=(0,c._)("h1",null,"This is an about page",-1),u=[r];function s(n,t){return(0,c.wg)(),(0,c.iD)("div",e,u)}var i=a(89);const o={},d=(0,i.Z)(o,[["render",s]]);var f=d}}]);
